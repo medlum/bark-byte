@@ -14,8 +14,8 @@ from huggingface_hub.errors import OverloadedError
 import re
 from streamlit_extras.grid import grid
 # ---------set up page config -------------#
-st.set_page_config(page_title="Agent Nova",
-                   layout="wide", page_icon="👾")
+st.set_page_config(page_title="Bark & Byte",
+                   layout="wide", page_icon="🐶")
 
 # ---------Inject CSS for buttons -------------#
 
